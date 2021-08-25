@@ -3,9 +3,6 @@ CLAB Task-1: Harris Corner Detector
 Your name (Your uniID): Prateek Arora (u6742441)
 """
 
-## Reference - https://stackoverflow.com/questions/3862225/implementing-a-harris-corner-detector #################################
-###Some parts of the code are taken from the reference but whole code is referenced just to be on the safer side#########
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
